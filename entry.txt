@@ -1,0 +1,1 @@
+I deleted the production database because the backup was just a symlink to it — I thought I was tidying up.
